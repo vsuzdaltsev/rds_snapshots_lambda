@@ -1,4 +1,4 @@
-# Aws lambda for managing rds snapshots in given account/regions(s)
+# Aws lambda for managing rds snapshots in given account/region(s)
 
 ## USAGE
 
